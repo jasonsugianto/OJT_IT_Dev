@@ -1,2 +1,2 @@
-# OJT_IT_dev
+# OJT_IT_Dev
 Case OJT IT Development
